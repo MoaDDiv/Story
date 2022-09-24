@@ -1,6 +1,6 @@
 Learnt below git commands
 
-
+0. Create a project folder. Then use "git init" command to initialise the git
 1. make changes to the project.
 2. Add those changes to the git using git add . // this will cache all the changes to the staging
 3. Commit the changes using git commit -m "the message"
