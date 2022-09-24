@@ -1,0 +1,9 @@
+Learnt below git commands
+
+
+1. make changes to the project.
+2. Add those changes to the git using git add . // this will cache all the changes to the staging
+3. Commit the changes using git commit -m "the message"
+
+4. "Git status" command will check if there is any uncached files.
+5. "Git log" will show all changes in the existing project
